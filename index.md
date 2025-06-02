@@ -1,6 +1,4 @@
 
-# Ali Ukadan
-
 📱 +7-706-400-1403  
 📧 [ukadan.1403@gmail.com](mailto:ukadan.1403@gmail.com)  
 💻 [GitHub](https://github.com/Ukadan)
