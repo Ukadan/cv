@@ -1,8 +1,3 @@
----
-layout: page
-title: "CV — Ali Ukadan"
-permalink: /cv/
----
 
 # Ali Ukadan
 
