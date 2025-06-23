@@ -38,8 +38,8 @@ _Bachelor in Information Technology_
 ---
 
 ### Software Engineer (iOS)  
-**NONAME LLC**  
-🌍 Remote / Ukraine • *Aug 2023 – Sep 2024 (Full-time)*
+**AppHero**  
+🌍 Remote / Poland • *Aug 2023 – Sep 2024 (Full-time)*
 
 - Integrated **AI-powered features** and in-app payments.
 - Migrated app from **UIKit to SwiftUI**, improving maintainability by **90%**.
