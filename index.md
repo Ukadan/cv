@@ -17,12 +17,10 @@ _Bachelor in Information Technology_
 
 ### Senior iOS Engineer  
 **Halyk Bank**  
-📍 Almaty, Kazakhstan • *Jun 2024 – Jan 2025 (Full-time)*
+📍 Almaty, Kazakhstan • *Jan 2025 – Present (Full-time)*
 
 - Contributing to the Super App within the product and credit department team.
 - Delivered improvements and new functionality to a product with **860K+ users** and **4.5M MAU**.
-- Conducted code reviews and increased test base coverage to **30%**.
-- Collaborated across teams and supported those behind on deadlines.
 
 ---
 
